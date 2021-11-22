@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\equipo\\Desktop\\PaginaEcomerse\\PaginaEcomerse\\PaginaEcomerse.csproj": {}
+    "C:\\Users\\equipo\\Desktop\\Proyecto2\\BestStyleEcomerse\\PaginaEcomerse\\PaginaEcomerse\\PaginaEcomerse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\equipo\\Desktop\\PaginaEcomerse\\PaginaEcomerse\\PaginaEcomerse.csproj": {
+    "C:\\Users\\equipo\\Desktop\\Proyecto2\\BestStyleEcomerse\\PaginaEcomerse\\PaginaEcomerse\\PaginaEcomerse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\equipo\\Desktop\\PaginaEcomerse\\PaginaEcomerse\\PaginaEcomerse.csproj",
+        "projectUniqueName": "C:\\Users\\equipo\\Desktop\\Proyecto2\\BestStyleEcomerse\\PaginaEcomerse\\PaginaEcomerse\\PaginaEcomerse.csproj",
         "projectName": "PaginaEcomerse",
-        "projectPath": "C:\\Users\\equipo\\Desktop\\PaginaEcomerse\\PaginaEcomerse\\PaginaEcomerse.csproj",
+        "projectPath": "C:\\Users\\equipo\\Desktop\\Proyecto2\\BestStyleEcomerse\\PaginaEcomerse\\PaginaEcomerse\\PaginaEcomerse.csproj",
         "packagesPath": "C:\\Users\\equipo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\equipo\\Desktop\\PaginaEcomerse\\PaginaEcomerse\\obj\\",
+        "outputPath": "C:\\Users\\equipo\\Desktop\\Proyecto2\\BestStyleEcomerse\\PaginaEcomerse\\PaginaEcomerse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\equipo\\AppData\\Roaming\\NuGet\\NuGet.Config",
