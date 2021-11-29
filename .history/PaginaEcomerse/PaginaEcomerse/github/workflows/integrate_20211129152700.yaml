@@ -1,0 +1,8 @@
+name: DEVOPS;
+
+on: 
+pull_request:
+ branches: [ master ]
+
+ jobs:
+  cl_to_master
